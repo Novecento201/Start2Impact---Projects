@@ -16,7 +16,7 @@ This project put a strain on my web design and css skills, as not everything tha
 
 ---
 
-## <p style="display:flex; justify-content:flex-start; align-items:center; column-gap:1rem ;margin-top:1rem">[![My Skills](https://skills.thijs.gg/icons?i=github)](https://github.com/Novecento201/Counter) - JS Basic </p>
+## <p style="display:flex; justify-content:flex-start; align-items:center; column-gap:1rem ;margin-top:1rem">[![My Skills](https://skills.thijs.gg/icons?i=github)](https://github.com/Novecento201/Counter) JS Basic </p>
 
 A Javascript easy counter (no responsive)
 
