@@ -5,6 +5,8 @@ It was with them that I started this adventure and in this file there are the pr
 I create this folder about one year away from the start of this course.<br>
 Looking at the projects now with a more experienced point of view, I realize how much they can be improved and poorly written, I still want to leave the projects like this as a reminder of what they taught me and the challenges I faced in making them.
 
+[CERTIFICATE](https://drive.google.com/file/d/1vbsg-QjUdkIDRsIjo8zfuYfczjTVFDy7/view?usp=sharing)
+
 ## Projects :
 
 - <a href="#htmlcss">HTML & CSS</a>
@@ -49,10 +51,21 @@ The realization of this site was quite easy and I created it in a short time, th
 
 ---
 
-## <p style="display:flex; justify-content:flex-start; align-items:center; column-gap:1rem ;margin-top:1rem" id="final">[![My Skills](https://skills.thijs.gg/icons?i=github)](https://github.com/Novecento201/Climate-Warming) Final Project </p>
+## <p style="display:flex; justify-content:flex-start; align-items:center; column-gap:1rem ;margin-top:1rem" id="final"> Final Projects </p>
 
-A site that keeps track of the world's climate changes, with graphic demonstration (really bad), created with react and [Global Warming API](https://global-warming.org/) <br>
+### [![My Skills](https://skills.thijs.gg/icons?i=github)](https://github.com/Novecento201/Climate-Warming) Climate Warming
+
+A site that keeps track of the world's climate changes, with graphic demonstration (badly done), created with react and [Global Warming API](https://global-warming.org/) <br>
 This is the site that in terms of design I think is the most successful, this too I did it in a short time (like all the others except the portfolio) and therefore it results with little attention to detail. <br>
 Thanks to this [youtube video](https://www.youtube.com/watch?v=ymavtyRpT0E&t=3748s) for the three.js tutorial, and the [nasa website](https://climate.nasa.gov/) for the design inspiration.
 
-[<img src="./img/README_FINALPROJECT.gif" target="_blank">](https://github.com/Novecento201/Climate-Warming)
+[<img src="./img/README_FINALPROJECT1.gif" target="_blank">](https://github.com/Novecento201/Climate-Warming)
+
+### [![My Skills](https://skills.thijs.gg/icons?i=github)](https://github.com/Novecento201/covid19-tracker) Covid-19 Tracker
+
+This site tracks covid 19 cases around the world. <br>
+It was built with this [disease.sh API](https://disease.sh/docs/)
+
+Thanks this [youtube video](https://www.youtube.com/watch?v=cF3pIMJUZxM) for the guide and inspiration.
+
+[<img src="./img/README_FINALPROJECT2.gif" target="_blank">](https://github.com/Novecento201/covid19-tracker)
